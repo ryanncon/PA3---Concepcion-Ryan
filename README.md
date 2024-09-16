@@ -27,6 +27,8 @@ The project is divided into two parts:
 ## Version History
 - 0.1
   - Initial release
+- 0.2
+  - File edits
 ## Acknowledgement
 - Youtube
 - Chatgpt
